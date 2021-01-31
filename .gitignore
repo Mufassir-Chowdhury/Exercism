@@ -281,3 +281,4 @@ dmypy.json
 Cargo.lock
 
 # End of https://www.toptal.com/developers/gitignore/api/exercism,c++,c,python,rust,java,dart
+node_modules/
