@@ -1,0 +1,4 @@
+/home/mufassir/snap/exercism/5/exercism/cpp/grains/CMakeFiles/edit_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/grains/CMakeFiles/rebuild_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/grains/CMakeFiles/test_grains.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/grains/CMakeFiles/grains.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/scrabble-score.dir/scrabble_score_test.cpp.o CMakeFiles/scrabble-score.dir/scrabble_score.cpp.o CMakeFiles/scrabble-score.dir/test/tests-main.cpp.o -o scrabble-score 

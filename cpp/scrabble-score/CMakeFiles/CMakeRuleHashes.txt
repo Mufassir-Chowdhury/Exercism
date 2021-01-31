@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+6aac6edb4c7eb4818bc9d7b3c580bc95 CMakeFiles/test_scrabble-score

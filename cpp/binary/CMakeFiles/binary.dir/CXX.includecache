@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mufassir/snap/exercism/5/exercism/cpp/binary/binary.cpp
+binary.h
+/home/mufassir/snap/exercism/5/exercism/cpp/binary/binary.h
+
+/home/mufassir/snap/exercism/5/exercism/cpp/binary/binary.h
+string
+-
+algorithm
+-
+

@@ -1,0 +1,4 @@
+/home/mufassir/snap/exercism/5/exercism/cpp/scrabble-score/CMakeFiles/rebuild_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/scrabble-score/CMakeFiles/edit_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/scrabble-score/CMakeFiles/test_scrabble-score.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/scrabble-score/CMakeFiles/scrabble-score.dir

@@ -1,0 +1,4 @@
+/home/mufassir/snap/exercism/5/exercism/cpp/isogram/CMakeFiles/rebuild_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/isogram/CMakeFiles/edit_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/isogram/CMakeFiles/test_isogram.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/isogram/CMakeFiles/isogram.dir

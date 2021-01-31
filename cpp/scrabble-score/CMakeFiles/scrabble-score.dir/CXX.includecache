@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mufassir/snap/exercism/5/exercism/cpp/scrabble-score/scrabble_score.cpp
+scrabble_score.h
+/home/mufassir/snap/exercism/5/exercism/cpp/scrabble-score/scrabble_score.h
+
+/home/mufassir/snap/exercism/5/exercism/cpp/scrabble-score/scrabble_score.h
+string
+-
+map
+-
+cctype
+-
+

@@ -1,0 +1,4 @@
+/home/mufassir/snap/exercism/5/exercism/cpp/triangle/CMakeFiles/rebuild_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/triangle/CMakeFiles/edit_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/triangle/CMakeFiles/test_triangle.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/triangle/CMakeFiles/triangle.dir

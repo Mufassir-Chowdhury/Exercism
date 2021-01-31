@@ -6,7 +6,7 @@
 
 namespace binary {
 
-int convert(std::string binary);
+int convert(std::string const& binary);
 
 }  // namespace binary
 

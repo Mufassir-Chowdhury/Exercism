@@ -1,0 +1,4 @@
+/home/mufassir/snap/exercism/5/exercism/cpp/luhn/CMakeFiles/edit_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/luhn/CMakeFiles/test_luhn.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/luhn/CMakeFiles/rebuild_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/luhn/CMakeFiles/luhn.dir

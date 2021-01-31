@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/triangle.dir/triangle_test.cpp.o CMakeFiles/triangle.dir/triangle.cpp.o CMakeFiles/triangle.dir/test/tests-main.cpp.o -o triangle 

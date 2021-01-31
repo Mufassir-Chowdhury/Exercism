@@ -1,11 +1,11 @@
 #if !defined(TRIANGLE_H)
 #define TRIANGLE_H
 
-#include<string>
+#include<stdexcept>
 
 namespace triangle {
 
-enum flavor {
+enum class flavor {
     equilateral,
     scalene,
     isosceles,

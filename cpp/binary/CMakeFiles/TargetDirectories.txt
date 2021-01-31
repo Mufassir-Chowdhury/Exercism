@@ -1,0 +1,4 @@
+/home/mufassir/snap/exercism/5/exercism/cpp/binary/CMakeFiles/rebuild_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/binary/CMakeFiles/edit_cache.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/binary/CMakeFiles/test_binary.dir
+/home/mufassir/snap/exercism/5/exercism/cpp/binary/CMakeFiles/binary.dir

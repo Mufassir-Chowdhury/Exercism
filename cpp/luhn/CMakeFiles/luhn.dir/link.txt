@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/luhn.dir/luhn_test.cpp.o CMakeFiles/luhn.dir/luhn.cpp.o CMakeFiles/luhn.dir/test/tests-main.cpp.o -o luhn 
