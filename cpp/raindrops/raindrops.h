@@ -2,6 +2,7 @@
 #define RAINDROPS_H
 
 #include<string>
+#include<array>
 
 namespace raindrops {
 
