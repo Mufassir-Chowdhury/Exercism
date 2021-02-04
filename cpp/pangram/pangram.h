@@ -2,12 +2,12 @@
 #define PANGRAM_H
 
 #include<string>
-#include<set>
-#include<cctype>
+#include<unordered_set>
+#include<ctype.h>
 
 namespace pangram {
 
-bool is_pangram(std::string sentence);
+bool is_pangram(std::string const& sentence);
 
 }  // namespace pangram
 

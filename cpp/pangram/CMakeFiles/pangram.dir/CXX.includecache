@@ -6,12 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/home/mufassir/snap/exercism/5/exercism/cpp/pangram/pangram.cpp
+pangram.h
+/home/mufassir/snap/exercism/5/exercism/cpp/pangram/pangram.h
+
 /home/mufassir/snap/exercism/5/exercism/cpp/pangram/pangram.h
 string
 -
-set
+unordered_set
 -
-cctype
+ctype.h
 -
 
 /home/mufassir/snap/exercism/5/exercism/cpp/pangram/pangram_test.cpp

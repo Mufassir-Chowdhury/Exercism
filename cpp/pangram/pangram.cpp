@@ -2,10 +2,10 @@
 
 namespace pangram {
 
-bool is_pangram(std::string sentence){
-    std::set<char> letters_in_sentence;
-    for(auto letter: sentence)
-        letters_in_sentence.insert( tolower( (unsigned char) letter ) );
+bool is_pangram(std::string const& sentence){
+    std::unordered_set<char> letters_in_sentence;
+    for(unsigned char letter: sentence)
+        letters_in_sentence.insert( tolower( letter ) );
     
     std::string alphabet = "abcdefghijklmnopqrstuvwxyz";
 

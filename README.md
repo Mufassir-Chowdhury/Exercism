@@ -2,7 +2,7 @@
 This is a personal (but public) repository for all of my solutions to the problems from the Website [Exercism](www.exercism.io "Exercism is an independent not-for-profit organisation, run by a small team, and supported by 1,832 wonderful volunteers.").\
 Currently I have included the following languages:
 1. C
-2. C++
+2. C++ (Completed the main track)
 3. Python
 4. Rust
 5. Java
